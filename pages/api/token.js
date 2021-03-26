@@ -2,7 +2,7 @@
 
 const crypto = require('crypto')
 
-const VALID_OTP = '80085'
+const VALID_OTP = '67890'
 
 const isJSON = (variable) => typeof variable === 'object' && variable !== null
 
